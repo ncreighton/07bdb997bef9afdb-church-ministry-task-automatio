@@ -1,2 +1,28 @@
-# 07bdb997bef9afdb-church-ministry-task-automatio
-Professional task automation and delegation system built for church ministry operations and growth.
+# Church Ministry Task Automation and Delegation System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe7sLaDd1g09JKavOcZd04)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe7sLaDd1g09JKavOcZd04)
+
